@@ -4,7 +4,7 @@ Random stuff I programmed lol
 ### Information:
 - Created on 17/10/2022
 - Created by zImSkillz#0001
-- PAID
+- Free
 
 ### Price:
 - Free2Use
